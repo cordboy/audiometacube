@@ -1,3 +1,3 @@
 # audiometacube
 
-Relatively simple Processing sketch with particles and audio reactiviness.
+Relatively simple Processing sketch with particles and audio reactiveness.
